@@ -1,0 +1,10 @@
+C:\Users\SuriyaPrakash\source\repos\day-20\Assignment25\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\SuriyaPrakash\source\repos\day-20\Assignment25\MainApp\bin\Debug\MainApp.exe
+C:\Users\SuriyaPrakash\source\repos\day-20\Assignment25\MainApp\bin\Debug\MainApp.pdb
+C:\Users\SuriyaPrakash\source\repos\day-20\Assignment25\MainApp\bin\Debug\MySharedLibrary.dll
+C:\Users\SuriyaPrakash\source\repos\day-20\Assignment25\MainApp\bin\Debug\MySharedLibrary.pdb
+C:\Users\SuriyaPrakash\source\repos\day-20\Assignment25\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\SuriyaPrakash\source\repos\day-20\Assignment25\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\SuriyaPrakash\source\repos\day-20\Assignment25\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+C:\Users\SuriyaPrakash\source\repos\day-20\Assignment25\MainApp\obj\Debug\MainApp.exe
+C:\Users\SuriyaPrakash\source\repos\day-20\Assignment25\MainApp\obj\Debug\MainApp.pdb
